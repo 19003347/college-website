@@ -1,0 +1,91 @@
+#intro{
+    width:20%;
+    float: left;
+    margin-right: 3%;
+}
+#cont{
+    width: 50%;
+    text-align: justify;
+    float: left;
+    
+}
+
+
+
+li a{
+    color:greenyellow;
+    text-decoration: none;
+}
+#no{
+    display: inline-block;
+        padding: 15px;
+        margin-right: 10px;
+        border: black 1px solid;
+        font-size: 20px;
+        font-weight: bold;
+}
+#no:hover{
+    background-color: royalblue;
+}
+
+.tot{
+    width: 85%;
+    margin:0 auto;
+    border: black solid 2px;
+    background-color:cornsilk;
+   
+}
+.clear{
+    clear: both;
+
+}
+#img{
+    width: 15%;
+    float: left;
+    margin-right: 7%;
+    
+}
+#img2{
+    width: 15%;
+    float: left;
+    margin-right: 12%;
+}
+#course{
+    width: 50%;
+    float: left;
+    margin-left: 10%;
+}
+#con{
+    width: 60%;
+    float: left;
+ 
+}
+
+.new{
+    border: 3px black solid;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px;
+    color:darkorange;
+}
+.new:hover{
+    background-color: red;
+    
+}
+.form{
+    width:50%;
+    float: left;
+    margin-left: 10%;
+    line-height: 100%;
+}
+#img1{
+    width: 15%;
+    float: left;
+    margin-right: 7%;
+    
+}
+#space{
+    
+    margin-top: 60px;
+    text-align: justify;
+}
